@@ -1,7 +1,6 @@
 package homework;
 
 //객체지향 방식으로 가위바위보를 하는데 두명의 선수가 무작위로 가위 바위 보를 낸 다음 승부를 출력하시오.
-//Rock paper scissors
 
 public class RPS {
     public static void main(String[] args) {
@@ -45,5 +44,3 @@ class Play {
         }
     }
 }
-
-// Math.random 괄호 안 해줘서 계속 0만 나옴
