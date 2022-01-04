@@ -42,12 +42,10 @@ class Korea extends Nation {
 
 class Japan extends Nation {
     String celebrity;
-    Nation nation = new Nation();
     void changeCelebrity(String celebrity) {this.celebrity = celebrity;}
 }
 
 class Australia extends Nation {
     String weather;
-    Nation nation = new Nation();
     void changeWeather(String weather) {this.weather = weather;}
 }
