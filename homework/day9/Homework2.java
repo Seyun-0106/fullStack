@@ -11,7 +11,8 @@ public class Homework2 {
         System.out.println(animal.getName());
         System.out.println(animal.getLocation());
 
-        animal.setLocation("땅");
+        // land,sea,air 이외의 문자열 입력된 경우 테스트
+        // animal.setLocation("땅");
     }
 
 }
